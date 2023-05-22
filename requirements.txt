@@ -1,2 +1,2 @@
-requests==2.21.0
+requests==2.31.0
 easydbio==0.0.3
